@@ -1,2 +1,3 @@
 # SQLJoin
 SQL Joins: CROSS, LEFT, RIGHT, INNER, OUTER, FULL
+UNION join 
